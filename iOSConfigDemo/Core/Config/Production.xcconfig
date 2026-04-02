@@ -1,0 +1,14 @@
+//
+//  Production.xcconfig
+//  iOSConfigDemo
+//
+//  Created by Akib Quraishi on 02/04/2026.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+API_BASE_URL = https:/$()/api.example.com
+APP_ENVIRONMENT = production
+ENABLE_VERBOSE_LOGGING = NO
+APP_DISPLAY_NAME = iOS Config Demo
