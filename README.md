@@ -169,14 +169,15 @@ URL: https://staging-api.example.com
 
 ## Screenshots
 
-### Development
-![Development Screenshot](Screenshots/dev-portrait.png)
+<p float="left">
+  <img src="Screenshots/dev-portrait.png" width="250" />
+  <img src="Screenshots/stage-portrait.png" width="250" />
+  <img src="Screenshots/prod-portrait.png" width="250" />
+</p>
 
-### Staging
-![Staging Screenshot](Screenshots/stage-portrait.png)
-
-### Production
-![Production Screenshot](Screenshots/prod-portrait.png)
+<p align="center">
+  <sub>Development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Production</sub>
+</p>
 
 ---
 
